@@ -1,7 +1,7 @@
 /***************************************************************************
- * main.cc for NetBeans                                                                *
+ * main.cc for NetBeans                                                    *
  *                                                                         *
- * Purpose: NetLink socket implementation - reading network configuration  *
+ * Purpose:   *
  * Author:  Slavik Ivantsiv, 2018                                          *
  ***************************************************************************/
 
