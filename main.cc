@@ -25,7 +25,7 @@
 int getType(unsigned int type_code, char* type_str, int max_len);
 int read_message(int sockint);
 
-/*if_arp.h
+/*
  *  main() is entry point of the application
  *  Initialise NetLink socket and send a request to the Kernel.
  *  Wait for the response using select() statement.
